@@ -1,0 +1,1 @@
+# Automatizando-o-carregamento-de-dados-do-Google-Cloud-Storage-para-o-BigQuery
