@@ -1,0 +1,19 @@
+{
+    "BigQuery Schema": [{
+      "name": "id",
+      "type": "STRING"
+     },
+     {
+      "name": "nome",
+      "type": "STRING"
+     },
+     {
+      "name": "email",
+      "type": "STRING"
+     },
+     {
+      "name": "idade",
+      "type": "STRING"
+     },
+    ]
+   }
